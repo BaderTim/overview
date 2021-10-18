@@ -1,5 +1,5 @@
 # Overview
-This repository provides an overview of my public repository in chronological order. 
+This repository provides an overview of my public repositories in chronological order. 
   
 ### [massage-studio-gingen](https://github.com/BaderTim/massage-studio-gingen) | Oktober 2021
 A responsive web application for a local massage studio. Built with React.
